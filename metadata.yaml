@@ -1,0 +1,33 @@
+_repo: The-Works-of-Alexander-Hamilton-vol-1-of-7_71719
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Alexander
+    birthdate: 1757
+    deathdate: 1804
+    gutenberg_agent_id: '13'
+    url: http://www.gutenberg.org/2009/agents/13
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Hamilton
+  editor:
+    agent_name: Hamilton, John C.
+    gutenberg_agent_id: '56351'
+    url: http://www.gutenberg.org/2009/agents/56351
+description: ''
+gutenberg_issued: '2023-09-25'
+identifiers:
+  gutenberg: '71719'
+language: en
+pgterms:marc905: 20070102103029hamilton
+pgterms:marc906: '1850'
+pgterms:marc907: US
+production_note: Bryan Ness, SF2001, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York :$bJ. F. Trow, $c1850.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Works of Alexander Hamilton (vol. 1 of 7)
+url: http://www.gutenberg.org/ebooks/71719
