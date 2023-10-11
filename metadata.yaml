@@ -1,5 +1,8 @@
 _repo: The-Works-of-Alexander-Hamilton-vol-1-of-7_71719
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71719-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamilton, Alexander
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '56351'
     url: http://www.gutenberg.org/2009/agents/56351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71719#The-Works-of-Alexander-Hamilton-vol-1-of-7
 gutenberg_issued: '2023-09-25'
 identifiers:
   gutenberg: '71719'
